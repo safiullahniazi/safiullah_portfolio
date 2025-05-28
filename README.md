@@ -20,6 +20,43 @@ Secured AWS infrastructure using **GuardDuty**, **Security Hub**, and **AWS Dete
 ### 🛡️ Microsoft Sentinel - Cloud-native SIEM  
 Worked with **Azure Sentinel** to develop custom workbooks and analytics rules. Integrated data sources such as Office 365 and Defender for Endpoint. Built threat detection queries using KQL (Kusto Query Language).
 
+<h2> 📘 Professional Trainings </h2>
+
+A collection of professional courses and learning paths completed or explored for hands-on cybersecurity, cloud, and network expertise.
+
+### Cybersecurity Fundamentals & Certifications
+- **NAVTTC** – Introduction to Cyber Security  
+- [**Cybrary** – SY0-601: Security+](https://www.cybrary.it/course/comptia-security-plus/)  
+- [**SANS SEC504** – Hacker Tools, Techniques, and Incident Handling](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling/)  
+- [**CBT Nuggets** – CompTIA Network+](https://www.cbtnuggets.com/it-training/comptia-network-plus)  
+- [**HackTheBox** – Linux Fundamentals](https://academy.hackthebox.com/course/preview/linux-fundamentals)  
+
+### Ethical Hacking & Threat Analysis
+- [**HackerSploit** – Practical Ethical Hacking & Penetration Testing](https://www.udemy.com/course/practical-ethical-hacking-the-complete-course/)  
+- [**Dice** – Ethical Hacking & Cyber Security](https://www.dice.com/jobs/q-Ethical_Hacking_Cyber_Security-jobs)  
+- [**Chris Sanders** – Investigation Theory](https://chrissanders.org/)  
+
+### Cloud & DevOps Security
+- [**Loi Liang Yang** – AWS Services & Security](https://www.youtube.com/watch?v=udug43AWeJw&list=PL0-xwzAwzllw_dvNfabV28-bpAEoMchd3)  
+- [**Microsoft** – AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)  
+- [**Microsoft** – SC-200: Security Operations Analyst](https://learn.microsoft.com/en-us/training/courses/sc-200t00)  
+- [**CloudGuru** – AWS Solution Architect](https://www.cloudacademy.com/learning-paths/aws-certified-solutions-architect-associate-2020-210/)  
+- [**TechWorld with Nana** – Docker and Containerization](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)  
+
+### Networking & Infrastructure
+- [**Technologixs** – Cisco Certified Network Associate (CCNA)](https://www.technologixs.com/ccna-training/)
+
+<h2> 💻 Programming & Leetcoding </h2>
+
+Focused learning and practice on programming languages, algorithms, and problem-solving skills through coding challenges and projects.
+
+### Programming Languages 
+- [**Coursera** – Python for Everybody](https://www.coursera.org/specializations/python)
+- [**Bash Scripting** – Introduction to Bash Shell Scripting](https://www.coursera.org/projects/introduction-to-bash-shell-scripting)
+ 
+### Projects
+- [Open Ports Scanning Using Bash Script](https://github.com/safiullahniazi/safiullah_portfolio/blob/e1a3aa2bb976b4ccfa9059fd8c591c2d1f364d09/Open%20Ports%20Scanning%20Bash.sh) – Bash Script to Scan for open ports on remote and local systems
+- [File Handling in Python](https://github.com/safiullahniazi/safiullah_portfolio/blob/e1a3aa2bb976b4ccfa9059fd8c591c2d1f364d09/python_file_reading_writing.py) – Basic Python concepts to deal with Files operation in Python  
 
 
 <h2> 📚 Professional Courses Writeups </h2>
@@ -35,6 +72,7 @@ Detailed guide and configuration steps for Windows Server environments.
 ### Miscellaneous Writeups  
 Additional notes and writeups covering various cybersecurity topics and hands-on experiences.  
 🔗 [Miscellaneous Writeups Collection](https://securitywithblue.medium.com/)
+
 
 <h2>📜 Certifications </h2>
 
@@ -80,7 +118,7 @@ Additional notes and writeups covering various cybersecurity topics and hands-on
 ### 📝 Technical & Professional Writing  
 - Proficient in creating documentation and technical reports using **Overleaf**, **Medium**, and **Notion**.
 
-## 🎓 Education
+<h2> 🎓 Education </h2>
 
 **BS in Computer Science**  
 *University Institute of Information Technology, PMAS, Rawalpindi*  
@@ -97,6 +135,16 @@ Additional notes and writeups covering various cybersecurity topics and hands-on
 - 👨‍💻 Object-Oriented Programming  
 - ✍️ Technical & Business Writing
 
+<h2> 🙋 About Me </h2>
+
+- 🔭 I’m currently working on LeetCoding.
+- 🌱 I’m currently learning Python for DSA advanced Concepts and also Preparing for AWS SysOps Certification
+- 👯 I’m looking to collaborate on Hackathons and Professional Skills Building
+- 💬 Ask me about Cyber Security and Information Security
+- 📫 How to reach me: Link is given below for LinkedIn
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -109,13 +157,7 @@ Additional notes and writeups covering various cybersecurity topics and hands-on
 **safiullahniazi/safiullah_portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
