@@ -118,12 +118,6 @@ Additional notes and writeups covering various cybersecurity topics and hands-on
 ### 📝 Technical & Professional Writing  
 - Proficient in creating documentation and technical reports using **Overleaf**, **Medium**, and **Notion**.
 
-<h2> 🎓 Education </h2>
-
-**BS in Computer Science**  
-*University Institute of Information Technology, PMAS, Rawalpindi*  
-**2020 – 2024**
-
 **Relevant Coursework:**  
 - 💻 Computer Networking  
 - 🔐 Information Security  
